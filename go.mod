@@ -1,4 +1,4 @@
-module github.com/matashiha/protos
+module github.com/MatashiHa/protos
 
 go 1.23.0
 
